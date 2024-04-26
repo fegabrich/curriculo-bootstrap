@@ -1,0 +1,45 @@
+.hr{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.icon-large {
+    font-size: 24px;
+}
+#carouselExampleIndicators {
+    max-width: 700px;
+    margin: 10px auto;
+    padding: 10px; 
+}
+.nome-imagem {
+    margin-top: 5px;
+    font-weight: bold;
+}
+
+.imagem {
+    max-width: 200px;
+    height: auto;
+}
+.fotofe{
+   padding: 0px;
+}
+ul {
+    display: flex; 
+    list-style-type: none; 
+    padding: 0;
+  }
+  .topic {
+    padding: 8px 16px;
+    margin: 8px;
+    border: 2px solid #007bff; 
+    border-radius: 20px; 
+    background-color: #007bff; 
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 14px;
+  }
+  .iconesrepo{
+    margin-right: 50px;
+    font-size: 18px;
+  }
